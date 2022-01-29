@@ -3,10 +3,10 @@
         "OneSignal": {
             "sound": false,
             "vibrate": false,
-            "project_number": "371113714233",
+            "project_number": "728093417038",
             "debug": true,
             "notifications_when_active": false,
-            "id": "9c3ef097-fc51-4d29-9eed-3a04f060207f"
+            "id": "7bbb30de-eae3-4274-b5f4-322fa1d3d606"
         },
         "Facebook": {
             "debug": false
@@ -15,7 +15,7 @@
     "ios": {
         "OneSignal": {
             "debug": false,
-            "id": "9c3ef097-fc51-4d29-9eed-3a04f060207f",
+            "id": "7bbb30de-eae3-4274-b5f4-322fa1d3d606",
             "auto_register": false
         },
         "Facebook": {
